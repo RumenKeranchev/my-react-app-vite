@@ -1,11 +1,7 @@
-import { List } from "./tutorial/05-leverage-javascript/starter/List";
+import Starter from "./tutorial/06-forms/starter/01-controlled-inputs.jsx";
 
 function App() {
-	return (
-		<div className='container'>
-			<List />
-		</div>
-	);
+	return <Starter />;
 }
 
 export default App;
