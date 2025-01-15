@@ -1,4 +1,4 @@
-import Starter from "./tutorial/09-context-api/starter/prop-drilling/Navbar";
+import Starter from "./tutorial/09-context-api/starter/context-api/Navbar";
 
 function App() {
 	return <Starter />;
